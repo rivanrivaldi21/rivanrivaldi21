@@ -1,4 +1,4 @@
-<h1>Programmer tampan dan rupawan</h1>
+<h1>Programmer Tampan dan Rupawan</h1>
 
 <!---
 rivanrivaldi21/rivanrivaldi21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
